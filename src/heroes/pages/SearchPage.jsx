@@ -24,8 +24,6 @@ export const SearchPage = () => {
     onResetForm();
   }
 
-
-
   return (
    <>
       <h1>Search</h1>
